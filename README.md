@@ -1,16 +1,23 @@
-### Hi there 👋
+# Welcome to my page
 
-<!--
-**ReevePrime/reeveprime** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I am Samuel, a self-taught web developer.
 
-Here are some ideas to get you started:
+# Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+This page is used for hosting my various projects and app developped throughout my coding journey.
+Simply click the name of the webapp to view it directly, or click the Github link below to access the source code.
+
+### [UnsplashR](https://reeveprime.github.io/unsplash-search/)
+[Github](https://github.com/ReevePrime/unsplash-search)
+
+This basic gallery coded in React uses the Unsplash API to return a variety of freely-usable images.
+
+### [To-do list](https://reeveprime.github.io/todolist/)
+[Github](https://github.com/ReevePrime/todolist)
+
+A classic but efficient to-do list
+
+### [ReacTube](https://serene-bartik-895185.netlify.app/)
+[Github](https://github.com/ReevePrime/reactube)
+
+A simple webapp using the YouTube API to lookup videos
